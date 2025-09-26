@@ -1,5 +1,5 @@
-from Qlapoti.sage_implementation.ideal_to_isogeny.deuring.broker import starting_curve
-from Qlapoti.sage_implementation.ideal_to_isogeny.deuring.correspondence import constructive_deuring
+from broker import starting_curve
+from deuring.correspondence import constructive_deuring
 
 # p = 2**69 * 3**29 * 7**13 - 1
 # p = 2^59 * 3^19 * 7 - 1
